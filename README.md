@@ -1,16 +1,6 @@
 # comp1238_notes
 This documents primary purpose is to fulfill the requirements of lab 3 in comp 1238
 # Number Row Characters
-* 1 One
-* 2 Two
-* 3 Three
-* 4 Four
-* 5 Five
-* 6 Six
-* 7 Seven
-* 8 Eight
-* 9 Nine
-* 0 Zero
 * \- Minus/dash (needed \\ in order to show)
 * = Equals
 * ` Grave Accent
@@ -26,4 +16,6 @@ This documents primary purpose is to fulfill the requirements of lab 3 in comp 1
 * ( Open Parenthesis
 * ) Close Parathesis
 * _ Underscore
-* \+ Plus/addition sign (needed \\ to show)
+* \+ Plus/addition sign (needed \\ to show)  
+[comp1238 notes](https://github.com/DEDAWDA/comp1238_notes/tree/main)  
+[Comp1238 D2L Mainpage](https://learn.georgebrown.ca/d2l/home/291663)
