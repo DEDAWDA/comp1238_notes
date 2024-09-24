@@ -21,3 +21,15 @@ This documents primary purpose is to fulfill the requirements of lab 3 in comp 1
 [Comp1238 D2L Mainpage](https://learn.georgebrown.ca/d2l/home/291663)
 # Experiments
 🥱😴
+
+#Keyboard Shortcuts
+* Shortcuts I use often
+*  Ctrl-C (copy)
+*  Ctrl-V (paste)
+*  Ctrl-Z (undo)
+*  Ctrl-Y (redo)
+
+* Shortcuts I would like to use more often
+*  Ctrl-shift-T (restores recently closed tab)
+*  Ctrl-T (new tab)
+*  Ctrl-A (select all)
